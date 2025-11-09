@@ -54,15 +54,3 @@ The project is deployed as an **interactive Streamlit web app**, allowing users 
 - Provided an intuitive web app for users to test vehicle parameters interactively.
 
 ---
-
-## 💻 Deployment
-
-🔗 **Live App:** [Streamlit Fuel Efficiency Predictor](#)  
-*(Replace `#` with your Streamlit app URL)*  
-
-To run locally:
-```bash
-git clone https://github.com/<your-username>/fuel_efficiency_prediction.git
-cd fuel_efficiency_prediction
-pip install -r requirements.txt
-streamlit run app.py
